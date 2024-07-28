@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1567020932",
+    "project_id": "comments-app-ff135",
+    "storage_bucket": "comments-app-ff135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1567020932:android:976907fb4a00c6b4832fd1",
+        "android_client_info": {
+          "package_name": "com.example.healther"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOa2H4Exq087j9YRzq-MVvAbV69PBR1nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
